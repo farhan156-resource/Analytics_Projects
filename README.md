@@ -1,2 +1,2 @@
-# Analytics_projects3
+# Analytics_projects
 MIS Projects
